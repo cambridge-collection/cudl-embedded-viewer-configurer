@@ -1,4 +1,4 @@
-package ulcambridge.foundations.viewer.embedded;
+package ulcambridge.foundations.embeddedviewer.configuration;
 
 import org.junit.Before;
 import org.junit.Test;

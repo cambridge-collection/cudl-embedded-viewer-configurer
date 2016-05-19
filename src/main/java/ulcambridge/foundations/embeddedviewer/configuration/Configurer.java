@@ -1,4 +1,4 @@
-package ulcambridge.foundations.viewer.embedded;
+package ulcambridge.foundations.embeddedviewer.configuration;
 
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
